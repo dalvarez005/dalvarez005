@@ -5,7 +5,7 @@
   <!-- Most Used Languages -->
   <div>
     <h2 style="center: inline-block">Habilidades</h2>
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dalvarez-2022277&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=100"/>
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dalvarez005&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=100"/>
   </div>
   
   <!-- Technologies That I Know -->
