@@ -59,12 +59,6 @@ También exploro **IA local con OpenVINO y hardware Intel Arc / NPU**, y herrami
 
 </details>
 
-### 🤖 Código con apoyo de IA
-
-**ChatGPT · Codex · Claude · Cursor** forman parte de mi caja de herramientas para explorar soluciones, entender errores y avanzar con mis proyectos. Me interesa aprender el porqué de las soluciones y llevarlas a la práctica.
-
----
-
 <div align="center">
 
 **Siempre hay algo nuevo por construir.** ⚡
